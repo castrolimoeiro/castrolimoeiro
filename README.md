@@ -1,7 +1,7 @@
 ### Hello, my name is David Castro
 
 I'm Brazilian and I'm 33 years old.
-I have a degree in information technology management.
+I am graduated in information technology management.
 
 - my first contact with programming was many years ago with pascal, I spent a long time away from programming, returning for some time to this magical world of making things happen!;
 - What attracts me are practical projects that can help someone. I like challenges and interacting with people.;
