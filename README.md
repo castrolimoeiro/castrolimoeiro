@@ -30,5 +30,3 @@ I am graduated in information technology management.
 
 <img alt="Status do Github de castrolimoeiro" src="https://github-readme-stats.vercel.app/api/top-langs/?username=castrolimoeiro&&langs_count=12&count_private=true&layout=compact&hide=Jupyter%20Notebook">
 
----
-
