@@ -6,7 +6,7 @@ I am graduated in information technology management.
 - my first contact with programming was many years ago with pascal, I spent a long time away from programming, returning for some time to this magical world of making things happen!;
 - What attracts me are practical projects that can help someone. I like challenges and interacting with people.;
 - Learning about FullStack Technology;
-- My main language is Python, but I also use PHP and so many others that I feel attracted to;
+- My main language is Java.;
 
 ### Languages and technologies:
 
